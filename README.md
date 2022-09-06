@@ -12,6 +12,7 @@ Vous sortez tout juste d’une réunion de brief avec votre équipe. Voici un r�
 
 - Réaliser une courte analyse exploratoire.
 - Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
+
 Avant de quitter la salle de brief, Douglas, le project lead, vous donne quelques pistes et erreurs à éviter :
 
 Douglas : L’objectif est de te passer des relevés de consommation annuels futurs (attention à la fuite de données). Nous ferons de toute façon pour tout nouveau bâtiment un premier relevé de référence la première année, donc rien ne t'interdit d’en déduire des variables structurelles aux bâtiments, par exemple la nature et proportions des sources d’énergie utilisées.. 
